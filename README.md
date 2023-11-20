@@ -3,4 +3,4 @@
 * 활용 언어 \
 c, c++, JAVA, Python
 * 진행 중인 프로젝트 \
-Uno_Game(Python 활용)
+웹 프로젝트
